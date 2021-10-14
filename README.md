@@ -8,3 +8,9 @@ split it equally to all the members.
 Add a feature where if they want to choose alucky person.
 If yes re split the bill and calculate the bill excluding one person.
 Display the bill amount.
+
+# Simple chat bot
+this chat bot takes the input and greets the user
+By using reminders of 3,5 and 7 determines your age
+asks you question
+lets you to answer
