@@ -2,7 +2,7 @@
 import requests, json
 url = input()
 r = requests.get(url)
-# check if the page is loading or not 200 means page loading
+# check if the page is loading 
 if r.status_code == 200:
     try:
       # use json to get the data of the page
