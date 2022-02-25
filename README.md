@@ -24,5 +24,7 @@ Then we create the button using tkinter and then we create the qr code
 In this we use the hash method.
 For this we download the bcrypt module so that we can hash the password
 convert the password to bytes.
-
+** Coffee Machine**
+** WebScrapper **
+** SuperMarket Analysis **
 
